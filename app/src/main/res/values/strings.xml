@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MDALite</string>
+
+    <string name="capture_image">Capture Image</string>
+    <string name="run_diagnosis">Run Diagnosis</string>
+    <string name="back_to_home">Back to Home</string>
+
+    <string name="diagnosis_result">Diagnosis Result</string>
+    <string name="confidence_score">Confidence: %1$.2f</string>
+    <string name="symptoms">Symptoms (optional)</string>
+
+    <string name="fever">Fever</string>
+    <string name="headache">Headache</string>
+    <string name="nausea">Nausea</string>
+
+    <string name="processing">Processing...</string>
+    <string name="error_capture_image">Capture an image first</string>
+    <string name="app_title">MDALite</string>
+</resources>
